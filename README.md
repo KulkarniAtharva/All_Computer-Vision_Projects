@@ -10,6 +10,7 @@ This repository contains all the codes done for the purpose of learning Computer
   
   ## Projects
 
-- ![Face Detection]()
-- ![Finding Waldo]()
-- ![]()
+- [Face Detection]()
+- [Finding Waldo]()
+- [Photo Restoration using Impainting]()
+- [Live Sketch using Webcam]()
