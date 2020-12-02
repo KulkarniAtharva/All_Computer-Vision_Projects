@@ -9,3 +9,7 @@ This repository contains all the codes done for the purpose of learning Computer
  <BR>
   
   ## Projects
+
+- ![Face Detection]()
+- ![Finding Waldo]()
+- ![]()
