@@ -14,3 +14,5 @@ This repository contains all the codes done for the purpose of learning Computer
 - [Finding Waldo]()
 - [Photo Restoration using Impainting]()
 - [Live Sketch using Webcam]()
+- [Invisibility Cloak]()
+- [Face Lock]()
